@@ -1,0 +1,305 @@
+Header:
+  Type: ITEM_DB
+  Version: 3
+
+# Costumes exclusivos do Ragnarok LATAM (33 itens). Importe no Footer do seu db/import/item_db.yml.
+Body:
+  - Id: 20630
+    AegisName: LATAM_C_20630
+    Name: (Visual) Manto de Magus
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 280
+  - Id: 400096
+    AegisName: LATAM_C_400096
+    Name: (Visual) Poring Comemorativo
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 340
+  - Id: 400525
+    AegisName: LATAM_C_400525
+    Name: Boina Selvagem Branca
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2381
+  - Id: 400790
+    AegisName: LATAM_C_400790
+    Name: (Visual) Bravura dos Einherjar
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 940
+  - Id: 401149
+    AegisName: LATAM_C_401149
+    Name: (Visual) Sucesso
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2791
+  - Id: 401367
+    AegisName: LATAM_C_401367
+    Name: (Visual) Cabeca do Baby Shark
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2833
+  - Id: 401372
+    AegisName: LATAM_C_401372
+    Name: (Visual) Capuz do Baby Shark
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2834
+  - Id: 401373
+    AegisName: LATAM_C_401373
+    Name: (Visual) Capuz da Mamae Tubarao
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2835
+  - Id: 401374
+    AegisName: LATAM_C_401374
+    Name: (Visual) Capuz do Papai Tubarao
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2836
+  - Id: 401375
+    AegisName: LATAM_C_401375
+    Name: (Visual) Capuz da Vovo Tubarao
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2837
+  - Id: 401376
+    AegisName: LATAM_C_401376
+    Name: (Visual) Capuz do Vovo Tubarao
+    Type: Armor
+    Locations:
+      Costume_Head_Top: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2838
+  - Id: 410395
+    AegisName: LATAM_C_410395
+    Name: (Visual) Ornamento do Deus do Sol
+    Type: Armor
+    Locations:
+      Costume_Head_Mid: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2669
+  - Id: 410609
+    AegisName: LATAM_C_410609
+    Name: (Visual) Demonio de Nove Caudas
+    Type: Armor
+    Locations:
+      Costume_Head_Mid: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2823
+  - Id: 410636
+    AegisName: LATAM_C_410636
+    Name: (Visual) Peixe-Piloto
+    Type: Armor
+    Locations:
+      Costume_Head_Mid: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2839
+  - Id: 410637
+    AegisName: LATAM_C_410637
+    Name: (Visual) Mini Baby Shark
+    Type: Armor
+    Locations:
+      Costume_Head_Mid: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2840
+  - Id: 420445
+    AegisName: LATAM_C_420445
+    Name: (Visual) Poncho
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2670
+  - Id: 420490
+    AegisName: LATAM_C_420490
+    Name: (Visual) Peruca Colorida Estelar
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2247
+  - Id: 420597
+    AegisName: LATAM_C_420597
+    Name: (Visual) Abobora de Halloween
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2747
+  - Id: 420826
+    AegisName: LATAM_C_420826
+    Name: (Visual) Armas Primordiais
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2830
+  - Id: 420842
+    AegisName: LATAM_C_420842
+    Name: (Visual) Deidade das Aguas
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2842
+  - Id: 420875
+    AegisName: LATAM_C_420875
+    Name: (Visual) Peruca do Luar
+    Type: Armor
+    Locations:
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2851
+  - Id: 440047
+    AegisName: LATAM_C_440047
+    Name: (Visual) Mascara de Diabrete
+    Type: Armor
+    Locations:
+      Costume_Head_Mid: true
+      Costume_Head_Top: true
+      Costume_Head_Low: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 2841
+  - Id: 480544
+    AegisName: LATAM_C_480544
+    Name: (Visual) Rabo de Rata
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 195
+  - Id: 480589
+    AegisName: LATAM_C_480589
+    Name: (Visual) Asas de Raguel
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 56
+  - Id: 480659
+    AegisName: LATAM_C_480659
+    Name: (Visual) Pipoqueira Ornamental
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 290
+  - Id: 480801
+    AegisName: LATAM_C_480801
+    Name: (Visual) Mochila de Hatii
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 306
+  - Id: 480818
+    AegisName: LATAM_C_480818
+    Name: (Visual) Mochila do Baby Shark
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 308
+  - Id: 480819
+    AegisName: LATAM_C_480819
+    Name: (Visual) Mochila da Mamae Tubarao
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 309
+  - Id: 480820
+    AegisName: LATAM_C_480820
+    Name: (Visual) Mochila do Papai Tubarao
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 310
+  - Id: 480821
+    AegisName: LATAM_C_480821
+    Name: (Visual) Mochila da Vovo Tubarao
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 311
+  - Id: 480822
+    AegisName: LATAM_C_480822
+    Name: (Visual) Mochila do Vovo Tubarao
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 312
+  - Id: 480828
+    AegisName: LATAM_C_480828
+    Name: (Visual) Aljava de Flechas
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 313
+  - Id: 480829
+    AegisName: LATAM_C_480829
+    Name: (Visual) Mochila de Exploracao
+    Type: Armor
+    Locations:
+      Costume_Garment: true
+    ArmorLevel: 1
+    EquipLevelMin: 1
+    View: 314

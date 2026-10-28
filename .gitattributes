@@ -1,0 +1,3 @@
+*.grf binary
+*.txt -text
+*.lua -text
